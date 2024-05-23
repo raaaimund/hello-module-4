@@ -1,2 +1,1 @@
 I updated some-file.txt!
-This is some new content.
